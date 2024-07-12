@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ElenaPetrici
 - 👀 I’m interested Software Testing
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Manual testing projects
 - 📫 How to reach me: https://www.linkedin.com/in/elenapetrici/
 
